@@ -26,7 +26,7 @@
 ## Apresentação
 
 Você já se perguntou como os produtos do mercado são feitos até chegarem no seu carrinho ? Pois então encontrou a resposta !
-Com objetivo de disponibilizar informações e aumentar transparência da empresa, a [Cargill](https://www.cargill.com.br) nos desafiou a desenvolver uma aplicação web que demonstre como seus produtos alimentícios são feitos, desde o campo até a mesa do cliente final. Projeto realizado sob demanda da empresa, foi desenvolvido no evento Talent Fest promovido pela [<Laboratória>](https://www.laboratoria.la/br).
+Com objetivo de disponibilizar informações e aumentar transparência da empresa, sob demanda da [Cargill](https://www.cargill.com.br) desenvolvemos esta aplicação que demonstra as etapas de processamento de cada produto alimentício e como seus estes produtos são feitos desde o campo até a mesa do cliente final. Este projeto foi desenvolvido no 5º Hackathon Talent Fest promovido pela [<Laboratória>](https://www.laboratoria.la/br).
 
 ## Cargill
 
